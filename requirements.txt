@@ -1,0 +1,13 @@
+numpy
+pandas
+seaborn
+pingouin
+matplotlib
+statsmodels
+scikit-learn
+plotly
+xgboost
+pandas-profiling
+streamlit
+streamlit-option-menu
+streamlit_pandas_profiling
