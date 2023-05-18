@@ -1,7 +1,7 @@
 # Kaggle_Competition
 ## Store Sales - Time Series Forecasting
 
-[Streamlit 링크](https://maestroyongseok-kaggle-salesstore-app-fnhe45.streamlit.app/) <br/><br/>
+[Streamlit 링크](https://maestroyongseok-kaggle-storesales-app-1yt5gg.streamlit.app/) <br/><br/>
 [발표 영상]() <br/><br/>
 [데모 시연]() <br/><br/>
 [발표 PPT](https://github.com/MaestroYongseok/Kaggle_SalesStore/blob/main/storeSales.pdf) <br/><br/>
