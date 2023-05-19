@@ -3,7 +3,7 @@
 
 [Streamlit 링크](https://maestroyongseok-kaggle-storesales-app-1yt5gg.streamlit.app/) <br/><br/>
 [발표 영상](https://youtu.be/0oyoY8s4few) <br/><br/>
-[데모 시연]() <br/><br/>
+[데모 시연](https://youtu.be/COsedX1TsDc) <br/><br/>
 [발표 PPT](https://github.com/MaestroYongseok/Kaggle_StoreSales/blob/main/storeSales.pdf) <br/><br/>
 ![screensh](https://github.com/MaestroYongseok/Kaggle_StoreSales/tree/main/img/main.jpg)<br/><br/>
 
