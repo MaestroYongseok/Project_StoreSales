@@ -26,7 +26,7 @@
 
 ## 5. ERD (개체 관계 모델)
 
-![screensh](https://github.com/MaestroYongseok/Kaggle_SalesStore/blob/main/img/erd.jpg)
+![screensh](https://github.com/MaestroYongseok/Kaggle_StoreSales/tree/main/img/erd.jpg)
 
 ## 6. 팀 구성
 - 사용언어 : Python : 3.9.13v
