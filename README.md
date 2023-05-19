@@ -5,7 +5,7 @@
 [발표 영상](https://youtu.be/0oyoY8s4few) <br/><br/>
 [데모 시연](https://github.com/MaestroYongseok/Kaggle_SalesStore/blob/main/dashboard.avi) <br/><br/>
 [발표 PPT](https://github.com/MaestroYongseok/Kaggle_SalesStore/blob/main/storeSales.pdf) <br/><br/>
-![screensh](https://github.com/MaestroYongseok/Kaggle_SalesStore/blob/main/img/main.jpg)
+![screensh](C:\Users\YONSAI\Desktop\Kaggle_StoreSales\img\main.jpg)
 
 ## 1.프로젝트의 시작 (2023.04.20 ~ 2023.05.17)
 - Kaggle Competition : Store Sales - Time Series Forecasting ( Use machine learning to predict grocery sales )
