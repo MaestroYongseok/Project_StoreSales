@@ -3,8 +3,8 @@
 
 [Streamlit 링크](https://maestroyongseok-kaggle-storesales-app-1yt5gg.streamlit.app/) <br/><br/>
 [발표 영상](https://youtu.be/0oyoY8s4few) <br/><br/>
-[데모 시연](https://github.com/MaestroYongseok/Kaggle_SalesStore/blob/main/video/dashboard.avi) <br/><br/>
-[발표 PPT](https://github.com/MaestroYongseok/Kaggle_SalesStore/blob/main/storeSales.pdf) <br/><br/>
+[데모 시연]() <br/><br/>
+[발표 PPT](https://github.com/MaestroYongseok/Kaggle_StoreSales/blob/main/storeSales.pdf) <br/><br/>
 ![screensh](https://github.com/MaestroYongseok/Kaggle_StoreSales/tree/main/img/main.jpg)<br/><br/>
 
 ## 1.프로젝트의 시작 (2023.04.20 ~ 2023.05.17)
@@ -25,6 +25,7 @@
 - [데이터 링크](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
 
 ## 5. ERD (개체 관계 모델)
+
 ![screensh](https://github.com/MaestroYongseok/Kaggle_SalesStore/blob/main/img/erd.jpg)
 
 ## 6. 팀 구성
