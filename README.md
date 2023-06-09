@@ -1,6 +1,7 @@
+### TEAM PROJECT
 # Kaggle_Competition
 ## Store Sales - Time Series Forecasting
-
+<img src="image/kaggle.png"/>
 [Streamlit 링크](https://maestroyongseok-kaggle-storesales-app-1yt5gg.streamlit.app/) <br/><br/>
 [발표 영상](https://youtu.be/0oyoY8s4few) <br/><br/>
 [데모 시연](https://youtu.be/COsedX1TsDc) <br/><br/>
@@ -25,7 +26,7 @@
 - [데이터 링크](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
 
 ## 5. ERD (개체 관계 모델)
-
+<img src="img/erd.jpg"/>
 ![screensh](https://github.com/MaestroYongseok/Kaggle_StoreSales/tree/main/img/erd.jpg)
 
 ## 6. 팀 구성
@@ -56,6 +57,7 @@
   + 랜덤 포레스트 회귀를 통한 머신러닝
   + 데이터 예측
 ***
+
 
 ## 8. 설치 방법
 ### Windows
