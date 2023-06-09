@@ -35,7 +35,7 @@
 - 인원 : 3명
 - 주요 업무 : Streamlit 라이브러리를 이용한 웹개발 구현 코드 작성 및 머신러닝을 활용한 매장 매출 예측
 - 기간 : 2023.04.20 ~ 2023.05.17
-<img src="image/st1.png"/><img src="image/py2.png"/><img src="image/py1.png"/>
+
 ***
 
 ## 7. 주요 기능
